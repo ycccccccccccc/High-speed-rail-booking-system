@@ -1,6 +1,6 @@
 # High Speed Rail Booking System 🚅
 
-#### In the Spring of 2021, I and my team implemented a High-Speed Rail Booking System using Java. Here are some key features:
+#### In Spring 2021, my team and I implemented a High-Speed Rail Booking System using Java. Here are some key features:
 
 * System design architecture diagram:
 
